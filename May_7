@@ -1,1 +1,8 @@
-
+//First program of java
+class first_pro
+{
+    Public static void main(String args[])
+    {
+       system.out.printIn("Hii this is our first program:)");
+    }
+}
